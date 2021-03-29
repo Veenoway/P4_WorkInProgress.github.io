@@ -2090,6 +2090,7 @@ pre code {
 }
 .col-sm-6{
     margin-bottom: 30px;
+    width:50%;
 }
 .col-xs-1,
 .col-xs-10,
@@ -2344,7 +2345,7 @@ pre code {
         width: 58.33333333%
     }
     .col-sm-6 {
-        width: 100%
+        width: 50%
     }
     .col-sm-5 {
         width: 41.66666667%
@@ -5549,6 +5550,9 @@ textarea.input-group-sm>.input-group-btn>.btn {
     .navbar-default .navbar-nav .open .dropdown-menu>.disabled>a:hover {
         color: #ccc;
         background-color: transparent
+    }
+    .col-sm-6{
+        width: 100%;
     }
 }
 
